@@ -12,10 +12,6 @@ function updateClock(){
 
     document.getElementById("clock").textContent = timeString;
 
-
-
-
-
 }
 
 updateClock();
